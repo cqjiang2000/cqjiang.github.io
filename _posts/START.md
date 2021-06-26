@@ -1,1 +1,13 @@
-Hello Word!
+---
+layout:     post
+title:      我的个人博客简述
+subtitle:   北枳的小屋
+date:       2021-06-26
+author:     北枳
+header-img: img/post-bg-cook.jpg
+catalog: true
+<!-- tags:
+    - -->
+---
+
+## 前言
