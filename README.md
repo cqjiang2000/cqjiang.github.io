@@ -1,4 +1,8 @@
-
+- git status  //看看有哪些文件改动了- 
+- git add 你修改后要提交的文件
+- git commit -m '提交注释'
+- git push origin 你远程分支或者master
+——————————————————————————————————————————————————————————————————
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
